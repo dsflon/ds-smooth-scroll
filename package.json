@@ -1,6 +1,6 @@
 {
   "name": "ds-smooth-scroll",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "",
   "main": "./src/ds-smooth-scroll.js",
   "scripts": {
